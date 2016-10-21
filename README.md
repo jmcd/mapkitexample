@@ -1,4 +1,4 @@
-# MapKit
+# MapKit Example
 
 Shows a MKMapView using:
 
